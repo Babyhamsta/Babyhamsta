@@ -1,5 +1,5 @@
 <div align="center">
-  Hi there!👋 My name is Babyhamsta and I'm a freelance developer. I have created projects from basic C# tools to advanced AI tools.
+  Hi there!👋 My name is Babyhamsta and I'm a freelance developer. I have created projects from basic C# tools to advanced AI tools.<br>
   All of my projects are typically passion projects or projects that I use to learn about new coding languages or tools.<br><br>
 
   I work in Cyber Development so my Github helps me come up with new ideas and possible tools for use in a corporate environment.
