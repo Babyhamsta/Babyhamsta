@@ -10,6 +10,7 @@
 <div align="center">
   
 ![xspystats](https://github-readme-stats.vercel.app/api?username=babyhamsta&show_icons=true&theme=dark#gh-dark-mode-only)
+![komarev](https://komarev.com/ghpvc/?username=Babyhamsta&color=D22B2B)
 </div>
 
 <h2 align="center">Coding Languages that I like or use regularly:</h2>
