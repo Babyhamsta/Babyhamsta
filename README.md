@@ -9,7 +9,8 @@
 <br/>
 <div align="center">
   
-![xspystats](https://github-readme-stats.vercel.app/api?username=babyhamsta&show_icons=true&theme=dark#gh-dark-mode-only)<br />
+![xspystats](https://github-readme-stats.vercel.app/api?username=babyhamsta&show_icons=true&theme=dark#gh-dark-mode-only)
+<br/>
 ![komarev](https://komarev.com/ghpvc/?username=Babyhamsta&color=D22B2B)
 </div>
 
